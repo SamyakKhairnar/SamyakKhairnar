@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/SamyakKhairnar"><img src="https://api.daily.dev/devcards/ed149ce950e1466ca37f2871155c8cf4.png?r=n27" width="400" alt="Samyak Khairnar's Dev Card"/></a>
 
 <!--
 **SamyakKhairnar/SamyakKhairnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
